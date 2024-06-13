@@ -1,0 +1,24 @@
+{
+    "msgs": [
+        {
+            "role": "user",
+            "content": "How are you?",
+            "status": "success"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm fine, How may I help you today?",
+            "status": "success"
+        },
+        {
+            "role": "user",
+            "content": "create an image of a dog playing with a cat",
+            "status": "success"
+        },
+        {
+            "role": "assistant",
+            "ImageContent": "https://storage.googleapis.com/pai-images/ae74b3002bfe4b538493ca7aedb6a300.jpeg",
+            "status": "success"
+        }
+    ]
+}
